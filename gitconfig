@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = soniachanchee@gmail.com
+	name = Sonia Chan Chee
